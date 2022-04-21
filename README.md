@@ -1,6 +1,6 @@
-# pet_feeder
+# PetFeeder UI/UX mobile app design
 
-A new Flutter project.
+This is the mobile application that I have designed and created home automation systems. PetFeeder is the first member of this system. I have desinged an UI and UX app in flutter. In this app, you can see to refresh screens, connection Firebase services and store user's datas.  
 
 ## Getting Started
 
